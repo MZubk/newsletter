@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .article__container-alura {
+    @apply p-5 bg-gray-200 sm:rounded-xl sm:shadow-lg flex-col items-center gap-2 sm:hover:shadow-gray-700  sm:hover:shadow-lg;
+  }
+
+  .article__container-dark {
+    @apply dark:bg-dark-200 sm:hover:dark:shadow-black;
+  }
+
+  .article__tags-alura {
+    @apply bg-alura-100 px-3 py-1 rounded-full text-gray-200 text-xs uppercase font-bold hover:bg-alura-200 hover:scale-110 hover:cursor-pointer;
+  }
+
+  .article__tags-dark {
+    @apply dark:bg-dark-100;
+  }
+
+  .button-alura {
+    @apply py-2 px-8 w-full max-w-sm bg-alura-100 rounded-full font-semibold text-gray-200 uppercase outline-none hover:bg-alura-200 hover:shadow-md hover:shadow-gray-500;
+  }
+
+  .button-dark {
+    @apply dark:bg-dark-200 hover:dark:shadow-black;
+  }
+
+  .input-alura {
+    @apply py-3 pl-5 w-full max-w-lg text-dark-200 rounded-full outline-none placeholder:text-gray-400  placeholder:text-xs placeholder:uppercase placeholder:font-bold focus:border-2 focus:border-alura-100 invalid:focus:border-2 invalid:focus:border-red-400;
+  }
+
+  .input-dark {
+    @apply dark:bg-dark-200 dark:text-gray-200 invalid:focus:dark:border-2 invalid:focus:dark:border-red-400 placeholder:dark:text-gray-500;
+  }
+}
