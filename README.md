@@ -1,4 +1,4 @@
-# Alura Newsletter
+# Newsletter
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MZubk/alura-newsletter?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/MZubk/alura-newsletter?style=for-the-badge)
@@ -6,22 +6,21 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<a href="https://alura-newsletter-cyan.vercel.app/">Alura Newsletter</a>
+<a href="https://alura-newsletter-cyan.vercel.app/">Newsletter</a>
 
-#### Site criado usando o Vite e estilzado com o Tailwind
+#### Site criado usando o Vite e estilizado com o Tailwind
 
 ### Pagina de Cadastro
 
-<img src="https://github.com/MZubk/alura-newsletter/assets/69257259/9b933edd-111e-4989-a21f-55a9e59d0975" alt="Pagina de login da Alura Newsletter">
+<img src="https://github.com/MZubk/alura-newsletter/assets/69257259/9b933edd-111e-4989-a21f-55a9e59d0975" alt="Pagina de login da Newsletter">
 
-> Tela de Cadastro para a Alura NewsLetter, usuario pode colocar seu nome e email (não será cadastro).
+> Tela de Cadastro para a NewsLetter, usuário pode colocar seu nome e email (não será cadastro).
 
 ### Pagina Principal
 
-<img src="https://user-images.githubusercontent.com/69257259/261089190-b786290d-7336-4fc2-9eb5-a30510d01470.png" alt="Pagina Principal da Alura Newsletter">
+<img src="https://user-images.githubusercontent.com/69257259/261089190-b786290d-7336-4fc2-9eb5-a30510d01470.png" alt="Pagina Principal da Newsletter">
 
 > Pagina de cadastro com newsletter.
-
 
 ## 🤝 Colaboradores
 

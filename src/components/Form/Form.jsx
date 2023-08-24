@@ -15,16 +15,16 @@ const Form = ({ onSubmit }) => {
       <input
         required
         type="text"
-        className="input-alura input-dark"
+        className="input-light input-dark"
         placeholder="Insira seu nome..."
       />
       <input
         required
         type="email"
-        className="input-alura input-dark"
+        className="input-light input-dark"
         placeholder="Insira seu email..."
       />
-      <button type="submit" className="button-alura button-dark">
+      <button type="submit" className="button-light button-dark">
         Seguir
       </button>
     </form>
