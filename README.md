@@ -10,13 +10,13 @@
 
 #### Site criado usando o Vite e estilizado com o Tailwind
 
-### Pagina de Cadastro
+### Pagina de Cadastro - Dark Mode
 
 <img src="https://user-images.githubusercontent.com/69257259/262826860-9939bd82-afa4-4ead-bef8-52ce613a8623.png" alt="Pagina de login da Newsletter">
 
 > Tela de Cadastro para a NewsLetter, usuário pode colocar seu nome e email (não será cadastro).
 
-### Pagina Principal
+### Pagina Principal - Light Mode
 
 <img src="https://user-images.githubusercontent.com/69257259/262826909-21010e22-5645-4cb4-a8c0-008e8a76d2f1.png" alt="Pagina Principal da Newsletter">
 
